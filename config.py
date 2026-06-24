@@ -4,8 +4,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-GOOGLE_API_KEY = 'AIzaSyBBdhceI2Qg9Yxjs123V62dcoLsTZ3GyeqInI'
-
 DATA_ROOT = "./data/FB15k_237"
 
 MODEL_NAME = "gemini-3-flash-preview"
