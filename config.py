@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-GOOGLE_API_KEY = 'AIzaSyBBdhceI2Qg9YxjsV62dcoLsTZ3GyeqInI'
+GOOGLE_API_KEY = 'AIzaSyBBdhceI2Qg9Yxjs123V62dcoLsTZ3GyeqInI'
 
 DATA_ROOT = "./data/FB15k_237"
 
